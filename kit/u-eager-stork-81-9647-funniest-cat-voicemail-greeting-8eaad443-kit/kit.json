@@ -1,0 +1,53 @@
+{
+  "format": "agent-fun/kit/v1",
+  "competition": "u-eager-stork-81-9647-funniest-cat-voicemail-greeting-8eaad443",
+  "phase": "dev",
+  "bundle_sha256": "39057bdad36ced162c65b7885933ae43a8a980a794cc7270dc7995bfb97e0c6b",
+  "dataset_sha256": null,
+  "harness_version": "harness@8ac44a1c1486d2ccc6ccfc9ae2c89658059bc44d4edc0607babe8ab575d62877 node v26.13.1",
+  "scorer_version": "scorer@96de2f125a90191b2972d6bb090b3093d878d238340be3a38ddca8bf1c5ea23c program@49e164c1bcda970b1d451c8e371f5fe6c2f1b7dd483219cc1745c0493c9784e3",
+  "pricing_rev": "34d1007cd9dd19a1d751a8b87e79e95c181a94b3e791b1a546de6dac11435dbe",
+  "protocol": "agent-fun/program/v1",
+  "files": [
+    {
+      "path": "RULES.txt",
+      "sha256": "9083117029f9b446e1a4be48a64bab17ffea35dad4368828b4b6e8e03794812d",
+      "size": 74208
+    },
+    {
+      "path": "cli/makefun.mjs",
+      "sha256": "3d6b4d1c4d6e31484f680c9f2d1af840499b396b49817d92b332cc5065cf301c",
+      "size": 18242510
+    },
+    {
+      "path": "cli/site.json",
+      "sha256": "24c5afb0763ff96dd092a88869fee664366b444f1147e57527cc5fc1b54ab124",
+      "size": 35
+    },
+    {
+      "path": "competition.yaml",
+      "sha256": "67274e36b84225bd86385b52b147fb899511855504bc6072d17e01089796c3b2",
+      "size": 26884
+    },
+    {
+      "path": "harness/CODE.sha256",
+      "sha256": "6ef0daf8ba97463bce9d4267b424e2c79376e44e291d3d3613a5c976e3a12b7f",
+      "size": 21146
+    },
+    {
+      "path": "harness/SOURCES.sha256",
+      "sha256": "0536529d4040fba07bba114a2a7507e004e61789575f5ea56d3345234c234020",
+      "size": 21146
+    },
+    {
+      "path": "harness/harness-src.tar.gz",
+      "sha256": "0e9f6ee7fa97bd8a05f79f8e60a8312b2ff0306b7e8a26f047c0d56f73c7d588",
+      "size": 3223268
+    },
+    {
+      "path": "harness/harness-src.tar.gz.sha256",
+      "sha256": "253967ead5918c9473c813352209bc99dbfe55720fb89ffc8cb48c62c724f5a1",
+      "size": 85
+    }
+  ]
+}
